@@ -1,0 +1,14 @@
+# Day 0 – Linux Setup & Basics
+
+## What I reviewed
+- Using terminal
+- pwd, ls, cd
+- Creating directories
+
+## Commands
+```bash
+pwd
+ls
+cd ~
+mkdir de-learning
+
